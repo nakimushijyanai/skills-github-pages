@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
+title: Blogs 
 ---
 
 
-### Source code review journal
+### Source code review 
