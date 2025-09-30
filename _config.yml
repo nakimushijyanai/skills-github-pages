@@ -2,6 +2,6 @@ title: My Blogs on Programming
 
 description: Blogs about my learning path
 
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 
