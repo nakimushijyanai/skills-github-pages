@@ -4,4 +4,5 @@ description: Blogs about my learning path
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
-
+plugins:
+  - jekyll-remote-theme
